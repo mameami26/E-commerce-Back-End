@@ -17,6 +17,14 @@ This project is the back end for an e-commerce site using the latest technologie
 1. Clone the repository:
    ```bash
    git clone https://github.com/mameami26/E-commerce-Back-End.git
+ 
+2. run commend 
+```bash
+npm i
+
+node seeds/index.js
+
+node server.js
 
 ## Video
 
